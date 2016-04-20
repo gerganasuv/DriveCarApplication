@@ -6,3 +6,11 @@ F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplic
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.csproj.GenerateResource.Cache
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.exe
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.pdb
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\bin\Release\DriveCarApplication.exe.config
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.exe
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.pdb
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\bin\Release\DriveCarApplication.exe
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\bin\Release\DriveCarApplication.pdb
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.Form1.resources
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.Properties.Resources.resources
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Release\DriveCarApplication.csproj.GenerateResource.Cache

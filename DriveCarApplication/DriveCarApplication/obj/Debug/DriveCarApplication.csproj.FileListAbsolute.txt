@@ -6,3 +6,6 @@ F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplic
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Debug\DriveCarApplication.exe
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Debug\DriveCarApplication.pdb
 F:\QA Fundamentals\Team Work Antibaar\TheGame\DriveCarApplication\DriveCarApplication\obj\Debug\DriveCarApplication.Form1.resources
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\bin\Debug\DriveCarApplication.exe.config
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Debug\DriveCarApplication.exe
+C:\Users\Gerganka\Desktop\mmm\WithoutReadMeFIle1\DriveCarApplication\DriveCarApplication\obj\Debug\DriveCarApplication.pdb
